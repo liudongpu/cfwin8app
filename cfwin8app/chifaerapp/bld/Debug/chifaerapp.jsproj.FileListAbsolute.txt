@@ -1,0 +1,13 @@
+S:\AAAProject\Chifaer\cfwin8app\cfwin8app\chifaerapp\bin\Debug\resources.pri
+S:\AAAProject\Chifaer\cfwin8app\cfwin8app\chifaerapp\bin\Debug\AppxManifest.xml
+S:\AAAProject\Chifaer\cfwin8app\cfwin8app\chifaerapp\bin\Debug\chifaerapp.build.appxrecipe
+S:\AAAProject\Chifaer\cfwin8app\cfwin8app\chifaerapp\bld\Debug\priconfig.xml
+S:\AAAProject\Chifaer\cfwin8app\cfwin8app\chifaerapp\bld\Debug\layout.resfiles
+S:\AAAProject\Chifaer\cfwin8app\cfwin8app\chifaerapp\bld\Debug\resources.resfiles
+S:\AAAProject\Chifaer\cfwin8app\cfwin8app\chifaerapp\bld\Debug\pri.resfiles
+S:\AAAProject\Chifaer\cfwin8app\cfwin8app\chifaerapp\bld\Debug\LanguageQualifiers.txt
+S:\AAAProject\Chifaer\cfwin8app\cfwin8app\chifaerapp\bld\Debug\ProjectArchitectures.txt
+S:\AAAProject\Chifaer\cfwin8app\cfwin8app\chifaerapp\bld\Debug\priconfig.xml.intermediate
+S:\AAAProject\Chifaer\cfwin8app\cfwin8app\chifaerapp\bld\Debug\layout.resfiles.intermediate
+S:\AAAProject\Chifaer\cfwin8app\cfwin8app\chifaerapp\bld\Debug\resources.resfiles.intermediate
+S:\AAAProject\Chifaer\cfwin8app\cfwin8app\chifaerapp\bld\Debug\pri.resfiles.intermediate

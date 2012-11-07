@@ -17,7 +17,7 @@
     <Application Id="App" StartPage="default.html">
       <VisualElements DisplayName="chifaerapp" Logo="images\logo.png" SmallLogo="images\smalllogo.png" Description="chifaerapp" ForegroundText="light" BackgroundColor="#464646">
         <DefaultTile ShowName="allLogos" />
-        <SplashScreen Image="images\splashscreen.png" />
+        <SplashScreen Image="images\splashscreen.png" BackgroundColor="#629222" />
       </VisualElements>
     </Application>
   </Applications>

@@ -71,7 +71,6 @@
     <Content Include="pages\groupedItems\groupedItems.html" />
     <Content Include="pages\groupedItems\groupedItems.js" />
     <Content Include="default.html" />
-    <Content Include="pages\testPage\testPage.html" />
     <None Include="chifaerapp_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
